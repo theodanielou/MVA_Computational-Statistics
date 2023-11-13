@@ -1,3 +1,3 @@
 # MVA_Computational-Statistics
 
-Vous trouverez ici les tps et le projet que j'ai réalisé pour le cours Computational Statistics
+You will find here the practical work and the project I did for the Computational Statistics course.
